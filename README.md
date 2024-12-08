@@ -75,7 +75,7 @@ void loop() {
 }
 ```
 #### شماتیک مدار : 
-![shematic](./shematic/photos%20of%20shema/7-1.jp)
+![shematic](/shematic/photos%20of%20shema/7-1.jp "shema")
 
 
 #### در این گیف نحوه کار را میبینید :
