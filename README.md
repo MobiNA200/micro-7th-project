@@ -81,4 +81,4 @@ void loop() {
 #### در این گیف نحوه کار را میبینید :
 
 
-![gif](./videos%20of%20projects/InShot_20241127_184426844-ezgif.com-video-to-gif-converter.gif)
+![gif](/videos%20of%20projects/InShot_20241127_184426844-ezgif.com-video-to-gif-converter.gif)
