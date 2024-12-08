@@ -36,6 +36,7 @@ delay(500);
 ```
 #### شماتیک مدار :
 ![shematic](/shematic/photos%20of%20shema/7-1.jpg)
+
 ![photo](/photos%20of%20projects/20241119_093433.jpg)
 
 
@@ -74,7 +75,7 @@ void loop() {
 }
 ```
 #### شماتیک مدار : 
-![shematic](/shematic/photos%20of%20shema/7-1.jp)
+![shematic](./shematic/photos%20of%20shema/7-1.jp)
 
 
 #### در این گیف نحوه کار را میبینید :
