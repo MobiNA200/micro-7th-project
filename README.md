@@ -75,10 +75,7 @@ void loop() {
 }
 ```
 #### شماتیک مدار : 
-![shematic](/shematic/photos%20of%20shema/7-1.jp)
-
+![shematic](./shematic/photos%20of%20shema/7-1.jp)
 
 #### در این گیف نحوه کار را میبینید :
-
-
-![gif](/videos%20of%20projects/InShot_20241127_184426844-ezgif.com-video-to-gif-converter.gif)
+![gif](./videos%20of%20projects/InShot_20241127_184426844-ezgif.com-video-to-gif-converter.gif)
